@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar instant;
+
+<terms>=    screen shot;
+
+public <items> = (<terms>+);
+
+

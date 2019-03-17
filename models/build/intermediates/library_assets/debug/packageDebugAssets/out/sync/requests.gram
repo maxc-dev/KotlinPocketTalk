@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar requests;
+
+<terms> = you assumed wrong;
+
+public <items> = (<terms>+);
+
+
